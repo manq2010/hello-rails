@@ -48,11 +48,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 custom route, action, and view <a name="about-project"></a>
+# 📖 Hello Rails <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**custom route, action, and view** is a...
+**Hello rails** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
